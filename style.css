@@ -1163,7 +1163,7 @@ max-width:100%;
 padding:0 20px;
 
 text-align:center;
-transform: translate(35px,120px);
+transform: translateY(-120px);
 
 }
 
@@ -1171,7 +1171,7 @@ transform: translate(35px,120px);
 
 justify-content:center;
 transform: translateY(200px);
-transform: translatex(30px);
+transform: translateX(30px);
 
 
 
