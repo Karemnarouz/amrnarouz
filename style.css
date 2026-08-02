@@ -1170,8 +1170,8 @@ transform: translateY(-120px);
 .hero-buttons{
 
 justify-content:center;
-transform: translateY(200px);
-margin_right:80px;  
+transform: translateY(220px);
+/* margin_right:80px;   */
 
 
 
